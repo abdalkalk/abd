@@ -2,28 +2,39 @@
 body{
   font-size:100%;
 font-family: 'Roboto', sans-serif;
-background-color: aqua
 }
 
 .as{
   padding: 24px 24px 22px;
-  background:blue;
-  width:40em;
-  height:5em;
-  margin-bottom: 2em
-}
-form{
-  padding: 24px 24px 22px;
-  background:blue;
-  width:40em;
-  height:5em;
-}
-.in{
-  padding: 24px 24px 22px;
-  background:blue;
-  width:40em;
+  background:white;
+  width:5em;
   height:1em;
 }
-form{
-  background: blue
+.in{
+ width: 300px;
+ height:40px;
+}
+#ashi{
+  background-color: white;
+
+}
+#shithani{
+  background-color: white;
+    margin-bottom: 4em
+
+}
+h3,p,b,.1{
+text-align: left;
+}
+bo{
+  text-align: right;
+}
+.in#bac{
+  background:aqua
+}
+#ab{padding: 24px 24px 22px;
+background:white;
+width:40em;
+height:2em;
+
 }
