@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+  font-size:100%;
+font-family: 'Roboto', sans-serif;
+background-color: aqua
+}
+
+.as{
+  padding: 24px 24px 22px;
+  background:blue;
+  width:40em;
+  height:5em;
+  margin-bottom: 2em
+}
+form{
+  padding: 24px 24px 22px;
+  background:blue;
+  width:40em;
+  height:5em;
+}
+.in{
+  padding: 24px 24px 22px;
+  background:blue;
+  width:40em;
+  height:1em;
+}
+form{
+  background: blue
+}
