@@ -7,8 +7,8 @@ font-family: 'Roboto', sans-serif;
 .as{
   padding: 24px 24px 22px;
   background:white;
-  width:5em;
-  height:1em;
+  width:4em;
+  height:2em;
 }
 .in{
  width: 300px;
@@ -23,7 +23,7 @@ font-family: 'Roboto', sans-serif;
     margin-bottom: 4em
 
 }
-h3,p,b,.1{
+h4,p,b,.1{
 text-align: left;
 }
 bo{
@@ -34,7 +34,7 @@ bo{
 }
 #ab{padding: 24px 24px 22px;
 background:white;
-width:40em;
-height:2em;
+width:80em;
+height:3em;
 
 }
