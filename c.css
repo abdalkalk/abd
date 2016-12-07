@@ -2,24 +2,27 @@
 body{
   font-size:100%;
 font-family: 'Roboto', sans-serif;
-background: #ccc
+background: #F9F9F9
 }
 
 #as{
   padding: 10px 10px 10px;
   background-color:white;
-  width:30%;
+  width:35%;
   margin-bottom: 10px;
   text-align: left;
 }
 .in{
- width: 95%;
+ margin-left: 7%;
+ width: 80%;
  height:40px;
+ font-size: 110%;
+ padding-left: 2%
 }
 #ashi{
   background-color: white;
   padding: 10px 10px 10px;
-  width:30%;
+  width:35%;
   text-align: left;
   margin-bottom: 50px
 }
@@ -31,7 +34,7 @@ background: #ccc
 {padding: 24px 24px 22px;
 background:white;
 width:100%;
-height:2em;
+height:1em;
 
 }
 #space{
@@ -44,4 +47,11 @@ height:2em;
 
 #bac:hover {
   background-color: green;
+}
+#forget{
+  text-decoration: none;
+  color: black
+}
+#read{
+  text-decoration: none;
 }
